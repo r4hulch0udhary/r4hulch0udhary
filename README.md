@@ -139,6 +139,8 @@ LLM powered automation workflows using Fabric patterns.
 
 # 📫 Connect With Me
 
+🏆 **Top 3% Talent on Toptal** · [Hire me](https://www.toptal.com/developers/resume/rahul-choudhary2#nO5vmw)
+
 📧 Email: **goodluckrahul@yahoo.com**
 
 🌐 Blog: **https://www.techiewatch.com**
@@ -148,5 +150,3 @@ LLM powered automation workflows using Fabric patterns.
 ---
 
 ⭐ From [r4hulch0udhary](https://github.com/r4hulch0udhary)
-
-[![Top 3% Toptal Talent](https://www.toptal.com/developers/resume/rahul-choudhary2#nO5vmw)
